@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/widget">
+        <file>Images/brick.png</file>
+        <file>Images/brickGray.png</file>
+        <file>Images/grain.png</file>
+        <file>Images/grainGray.png</file>
+        <file>Images/lumber.png</file>
+        <file>Images/lumberGray.png</file>
+        <file>Images/ore.png</file>
+        <file>Images/oreGray.png</file>
+        <file>Images/wool.png</file>
+        <file>Images/woolGray.png</file>
+        <file>Images/board/brickSpace.png</file>
+        <file>Images/board/desertSpace.png</file>
+        <file>Images/board/grainSpace.png</file>
+        <file>Images/board/lumberSpace.png</file>
+        <file>Images/board/oreSpace.png</file>
+        <file>Images/board/woolSpace.png</file>
+        <file>Images/brickTrade.png</file>
+        <file>Images/grainTrade.png</file>
+        <file>Images/lumberTrade.png</file>
+        <file>Images/oreTrade.png</file>
+        <file>Images/woolTrade.png</file>
+        <file>Images/road.png</file>
+        <file>Images/city.png</file>
+        <file>Images/settlement.png</file>
+        <file>Images/monopol.png</file>
+        <file>Images/robber.png</file>
+        <file>Images/yearOfPlenty.png</file>
+        <file>Images/bank.png</file>
+        <file>Images/player.png</file>
+    </qresource>
+</RCC>
